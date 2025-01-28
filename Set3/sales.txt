@@ -1,0 +1,2 @@
+Sales of day 1: 323
+Sales of day 2: 23
